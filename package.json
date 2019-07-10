@@ -1,5 +1,5 @@
 {
-  "name": "yubinbango-core",
+  "name": "yubinbango-core-roma",
   "version": "0.6.3",
   "description": "",
   "main": "yubinbango-core.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yubinbango/yubinbango-core.git"
+    "url": "https://github.com/yubinbango-roma/yubinbango-core.git"
   },
-  "author": "Teruyuki Kobayashi koba1014@gmail.com",
+  "author": "mikkame",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yubinbango/yubinbango-core/issues"
+    "url": "https://github.com/yubinbango-roma/yubinbango-core/issues"
   },
-  "homepage": "https://github.com/yubinbango/yubinbango-core",
+  "homepage": "https://github.com/yubinbango-roma/yubinbango-core",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-angular-protractor": "^0.1.1",
